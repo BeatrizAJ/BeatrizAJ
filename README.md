@@ -7,7 +7,7 @@
 
 - 🔭 Atualmente estou estudando C#
 - 🦾 Iniciando na linguagem C# / html / css
-- 💬 Contato com giuliamarzano1006@gmail.com
+- 💬 Contato com biaajesus00@gmail.com
 
 <div></div>
 
