@@ -1,63 +1,38 @@
-<h1 align="left">Oii, Sejam bem vindos!✌️</h1>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=778899&color=b0c4de&height=75&section=header"/>
 
-###
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7299df&size=35&center=true&vCenter=true&width=1000&lines=I+study+systems+development+at+SENAI;Take+a+look+here+:%29)](https://git.io/typing-svg) 
 
-<p align="left">Sou estudante de Desenvolvimento de Sistema no SENAI de Informática, e estou no segundo semestre. Além disso, faço cursos de Design, AI900 e tenho inglês avançado.</p>
 
-###
+## Oi! Sou Giulia Marzano!  ![](https://komarev.com/ghpvc/?username=agussddp&style=for-the-badge)
 
-<h2 align="left">Sobre mim 🌺</h2>
+- 🔭 Atualmente estou estudando C#
+- 🦾 Iniciando na linguagem C# / html / css
+- 💬 Contato com giuliamarzano1006@gmail.com
 
-###
+<div></div>
 
-<p align="left">🎨 Gosto de desenhar<br>🏫 Meu inglês é avançado</p>
+<div align="center">  
+<a href="https://github.com/agussddp">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=agussddp&border_radius=4.5&title_color=90D5FF&show_icons=true&icon_color=9AA7D0&text_color=DCDCDC&theme=dark&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agussddp&layout=compact&langs_count=17&border_radius=4.5&title_color=90D5FF&icon_color=90D5FF&text_color=DCDCDC&theme=dark"/>
 
-###
 
-<h2 align="left">Tecnologias👩‍💻</h2>
 
-###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
 </div>
 
-###
 
-<h2 align="left">Ferramentas🛠️</h2>
 
-###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="trello logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="40" alt="chrome logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"  />
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=agussddp&bg_color=00000&title_color=90D5FF&color=00bfff&line=d5e3f6&point=5c7ba3&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+
+
+
+ <div align="left">
 </div>
 
-###
 
-<p align="left"></p>
-
-###
+ 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=b0c4de&height=75&section=footer"/>
