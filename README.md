@@ -1,12 +1,12 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=778899&color=b0c4de&height=75&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#c85a9b&color=b0c4de&height=75&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7299df&size=35&center=true&vCenter=true&width=1000&lines=I+study+systems+development+at+SENAI;Take+a+look+here+:%29)](https://git.io/typing-svg) 
 
 
-## Oi! Sou Giulia Marzano!  ![](https://komarev.com/ghpvc/?username=agussddp&style=for-the-badge)
+## Oi! Sou Beatriz Andrade!  ![](https://komarev.com/ghpvc/?username=agussddp&style=for-the-badge)
 
-- 🔭 Atualmente estou estudando C#
-- 🦾 Iniciando na linguagem C# / html / css
+- 🔭 Atualmente estou estudando JS
+- 🦾 Atualmente trabalhando com C# / html / css
 - 💬 Contato com biaajesus00@gmail.com
 
 <div></div>
