@@ -3,7 +3,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7299df&size=35&center=true&vCenter=true&width=1000&lines=I+study+systems+development+at+SENAI;Take+a+look+here+:%29)](https://git.io/typing-svg) 
 
-## Oi! Sou Beatriz Andrade!  ![](https://komarev.com/ghpvc/?username=BeatrizAJ&style=for-the-badge)
+## Oi! Sou a Beatriz!  ![](https://komarev.com/ghpvc/?username=BeatrizAJ&style=for-the-badge)
 
 - 🔭 Atualmente estou estudando JS
 - 🦾 Atualmente trabalhando com C# / html / css
