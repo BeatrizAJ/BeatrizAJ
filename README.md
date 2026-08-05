@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=400&color=90ACD7&center=true&vCenter=true&width=690&height=54&lines=Hi+there!+ヾ(%5E%E2%88%87%5E);You+can+call+me+Beatriz+✨;Python+|+Data+Science+|+AI+💙" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3500&pause=1000&color=90ACD7&center=true&vCenter=true&width=700&height=60&lines=Oii+eu+sou+a+Bia+%E3%83%BE(%EF%BC%BE%E2%88%87%EF%BC%BE)" alt="Typing SVG" />
   </a>
 </div>
 
@@ -22,6 +22,6 @@
 
 <div align="center">
   <a href="mailto:biaajesus00@gmail.com">
-    <img src="https://img.shields.io/badge/📧%20biaajesus00@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-biaajesus00%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </div>
