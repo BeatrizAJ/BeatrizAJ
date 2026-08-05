@@ -22,6 +22,6 @@
 
 <div align="center">
   <a href="mailto:biaajesus00@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-biaajesus00%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-biaajesus00%40gmail.com-90ACD7?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </div>
