@@ -31,3 +31,6 @@
     <img src="https://img.shields.io/badge/Gmail-biaajesus00%40gmail.com-90ACD7?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </div>
+
+ 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=b0c4de&height=75&section=footer"/>
