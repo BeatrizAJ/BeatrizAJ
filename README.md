@@ -1,4 +1,9 @@
 <div align="center">
+  <img src="cinamoroe.gif" width="850"/>
+</div>
+
+
+<div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3500&pause=1000&color=90ACD7&center=true&vCenter=true&width=700&height=60&lines=Oii+eu+sou+a+Bia+%E3%83%BE(%EF%BC%BE%E2%88%87%EF%BC%BE)" alt="Typing SVG" />
   </a>
