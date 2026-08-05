@@ -12,10 +12,6 @@
 <div></div>
 
 
-<div align="center">
-  <img src="MIKU.gif" alt="Final GIF" width="850" />
-</div>
-
 <div align="center">  
 <a href="https://github.com/BeatrizAJ">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BeatrizAJ&border_radius=4.5&title_color=90D5FF&show_icons=true&icon_color=9AA7D0&text_color=DCDCDC&theme=dark&include_all_commits=true&count_private=true"/>
@@ -26,3 +22,15 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=DB81BB&height=75&section=footer"/>
 
+
+<div align="center">
+  <img src="MIKU.gif" alt="Final GIF" width="850" />
+</div>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/importalline/importalline/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/importalline/importalline/output/github-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/importalline/importalline/output/github-snake.svg" />
+  </picture>
+</div>
