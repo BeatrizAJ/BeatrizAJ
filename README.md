@@ -5,9 +5,9 @@
 </div>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=BeatrizAJ&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=BeatrizAJ&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=BeatrizAJ&layout=compact&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=BeatrizAJ&layout=compact&theme=tokyonight"/>
 </div>
 
 <div align="center"><br>
