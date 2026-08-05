@@ -13,17 +13,13 @@
 
 
 
-<div align="center" style="display: inline-block"><br>
-  <img style="border: none;" align="center" alt="Line-Py" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
-  <img style="border: none;" align="center" alt="Line-Sql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
-  <img style="border: none;" align="center" alt="Line-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg">
-  <img style="border: none;" align="center" alt="Line-Nodem" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodemon/nodemon-original.svg">
-  <img style="border: none;" align="center" alt="Line-Vs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg">
-  <img style="border: none;" align="center" alt="Line-Num" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg">
-  <img style="border: none;" align="center" alt="Line-Panda" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg">
-  <img style="border: none;" align="center" alt="Line-Mat" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg">
-  <img style="border: none;" align="center" alt="Line-Plot" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original.svg">
-  <img style="border: none;" align="center" alt="Line-Jup" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg">
+<div align="center">
+  <a href="https://github.com/importalline" style="display:inline-block; margin-right:16px">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=importalline&show_icons=true&theme=transparent&cachebust=20251021" alt="GitHub stats" />
+  </a>
+  <a href="https://github.com/importalline/github-readme-stats" style="display:inline-block">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=importalline&layout=compact" alt="Top Langs" />
+  </a>
 </div>
 
 <div align="center">  
