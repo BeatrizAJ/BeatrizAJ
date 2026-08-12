@@ -12,11 +12,7 @@
 
 <br>
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=BeatrizAJ&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
-  <img width="37%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=BeatrizAJ&layout=compact&theme=tokyonight"/>
-</div>
 
 <br>
 
