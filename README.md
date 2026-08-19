@@ -27,7 +27,7 @@
 <br>
 
 <div align="center">
-  <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/BeatrizAJ/BeatrizAJ/output/github-snake.svg"/>
+<img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/importalline/importalline/output/github-snake.svg" style="visibility: visible; max-width: 90%;">
 </div>
 
-<img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/importalline/importalline/output/github-snake.svg" style="visibility: visible; max-width: 90%;">
+
