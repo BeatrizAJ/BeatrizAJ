@@ -1,6 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=778899&color=86cecb&height=75&section=header"/>
 <div align="center">
   <img src="cinamoroe.gif" width="100"/>
+  ![](https://komarev.com/ghpvc/?username=BeatrizAJ&style=for-the-badge)
 </div>
 
 
