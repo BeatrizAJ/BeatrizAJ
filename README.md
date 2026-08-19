@@ -1,27 +1,20 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=778899&color=86cecb&height=75&section=header"/>
-<div align="center">
-  <img src="cinamoroe.gif" width="100"/>
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:86cecb,100:90ACD7&height=75&section=header"/>
 
+<div align="center">
+  <img src="./cinamoroe.gif" width="100"/>
+</div>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3500&pause=1000&color=90ACD7&center=true&vCenter=true&width=700&height=60&lines=Oii+eu+sou+a+Bia+%E3%83%BE(%EF%BC%BE%E2%88%87%EF%BC%BE)" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3500&pause=1000&color=90ACD7&center=true&vCenter=true&width=700&height=60&lines=Oii+eu+sou+a+Bia+%E3%83%BE(%EF%BC%BE%E2%88%87%EF%BC%BE)" alt="Typing SVG"/>
   </a>
 </div>
 
 <br>
 
-
-
-<br>
-
 <div align="center">
   <img src="./MIKU.gif" width="850"/>
-</div> 
-
-<br>
-
+</div>
 
 <br>
 
@@ -31,6 +24,10 @@
   </a>
 </div>
 
-<img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/importalline/importalline/output/github-snake.svg" style="visibility: visible; max-width: 100%;">
- 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=86cecb&height=75&section=footer"/>
+<br>
+
+<div align="center">
+  <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/BeatrizAJ/BeatrizAJ/output/github-snake.svg"/>
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:90ACD7,100:86cecb&height=75&section=footer"/>
