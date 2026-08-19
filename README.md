@@ -30,4 +30,4 @@
   <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/BeatrizAJ/BeatrizAJ/output/github-snake.svg"/>
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:90ACD7,100:86cecb&height=75&section=footer"/>
+<img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/importalline/importalline/output/github-snake.svg" style="visibility: visible; max-width: 100%;">
