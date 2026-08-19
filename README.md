@@ -12,14 +12,17 @@
 
 <br>
 
-<img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/importalline/importalline/output/github-snake.svg" style="visibility: visible; max-width: 100%;">
+
 
 <br>
 
 <div align="center">
   <img src="./MIKU.gif" width="850"/>
-</div>
+</div> 
 
+<br>
+
+<img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/importalline/importalline/output/github-snake.svg" style="visibility: visible; max-width: 100%;">
 <br>
 
 <div align="center">
