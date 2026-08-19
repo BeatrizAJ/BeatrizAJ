@@ -22,7 +22,7 @@
 
 <br>
 
-<img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/importalline/importalline/output/github-snake.svg" style="visibility: visible; max-width: 100%;">
+
 <br>
 
 <div align="center">
@@ -31,5 +31,6 @@
   </a>
 </div>
 
+<img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/importalline/importalline/output/github-snake.svg" style="visibility: visible; max-width: 100%;">
  
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=86cecb&height=75&section=footer"/>
